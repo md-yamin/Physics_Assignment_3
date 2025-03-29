@@ -1,17 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
 #define PI 3.14159265358979323846
-
-// double calculate_diffraction_angle(int order, double wavelength, double d) {
-//     double sin_theta = (order * wavelength) / d;
-//     if (sin_theta > 1 || sin_theta < -1) {
-//         printf("Invalid diffraction angle (out of range).\n");
-//         return -1;
-//     }
-//     return asin(sin_theta) * (180.0 / PI);
-// }
-
 int main() {
 
     int m_green = 3, m_red = 2;
