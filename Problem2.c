@@ -1,3 +1,5 @@
+// Group 3 - Assignment Team
+// Problem 2 Code
 #include <stdio.h>
 #include <math.h>
 #define PI 3.14159265358979323846
