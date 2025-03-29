@@ -1,5 +1,5 @@
 ## 👨‍💻 Group 3 - Assignment Team
-
+## 👨‍💻 Subject - Physics II (PHY-123)
 | Name                          | ID           | Role            |
 |-------------------------------|--------------|-----------------|
 | **Md. Mahmudul Hasan Yamin**  | 242-114-125  | Contact Person  |
